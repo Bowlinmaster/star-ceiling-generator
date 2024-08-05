@@ -7,3 +7,5 @@ Uses noisejs from: https://github.com/xixixao/noisejs
 Uses processing-js from: https://github.com/processing-js/processing-js
 
 Generating to PNG does *NOT* work
+
+You can try this out at: https://bowlinmaster.github.io/projects/star-ceiling-generator/generator.html
